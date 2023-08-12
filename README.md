@@ -23,8 +23,9 @@
 Просматривать список приглашенных Вами пользователей в таблице "Ваши рефералы"</li>
 <li>
 Ознакомиться с документацией по работе API во вкладках "Swagger", "ReDoc".</li></ul><br>
-<b>Демонстрация работы сервиса (Django Templates + Bootstrap 5 [<a href="https://github.com/KD3821/referral_service_templates" target="_blank">Код версии приложения с Django шаблонами</a>]): <a href="https://mytest78.ru/" target="_blank">Я участвую!🚀</a></b>
-<br>
+<b>Демонстрация работы сервиса (Django Templates + Bootstrap 5 ): <a href="https://mytest78.ru/" target="_blank">Я участвую!🚀</a></b>
+<br><br>
+
 ![Alt text](https://github.com/KD3821/referral_service/assets/80853241/db7f3499-2c28-495f-b491-34b74d47cb5d)
 ![Alt text](https://github.com/KD3821/referral_service/assets/80853241/0f1bbdb5-f36e-4a6c-a138-ca78e7109c60)
 ![Alt text](https://github.com/KD3821/referral_service/assets/80853241/3ea4e842-f8d8-42b3-95c2-eda67e70cbfe)
@@ -32,8 +33,11 @@
 ![Alt text](https://github.com/KD3821/referral_service/assets/80853241/4398c9f1-7b72-419f-bc37-eccfe8738331)
 ![Alt text](https://github.com/KD3821/referral_service/assets/80853241/4c2340dc-f8ef-427b-888f-9c29479108ad)
 ![Alt text](https://github.com/KD3821/referral_service/assets/80853241/b49fd0c1-3932-49b9-b06e-bc440df9de56)
+<br><br>
+<b>[<a href="https://github.com/KD3821/referral_service_templates" target="_blank">Код версии приложения с Django шаблонами</a>]</b>
+<br>
 
-<b>Краткая инструкция по запуску и настройке сервиса</b><br>
+<b>Краткая инструкция по запуску и настройке сервиса</b><br><br>
 Стэк:
 <ul>
   <li>Django и Django REST framework.</li>
