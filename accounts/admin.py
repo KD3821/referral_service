@@ -5,7 +5,7 @@ from .models import User, TemporaryUser
 @admin.register(User)
 class UserAdmin(admin.ModelAdmin):
     list_display = ['phone', 'referralcode', 'invitecode', 'created_at', 'admin', 'is_invited', 'is_inviter']
-    list_filter = ['phone']
+    list_filter = ['phone', 'invitecode']
 
 
 @admin.register(TemporaryUser)
