@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/madeBy-KD3821-lightcoral" >
 
-<p align="center">Реферальная система (Django, DRF)</b><br>
+<p align="center">Реферальная система (Django, DRF)</p><br>
 
 <b>Описание работы сервиса</b><br>
 <ul>
